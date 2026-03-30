@@ -33,8 +33,8 @@ Along with theory, I have also created 5 shell scripts to demonstrate basic Linu
 ---
 
 ## Project Structure
-
-oss-audit-24BCE10779/
+```
+oss-audit-24BAI10375/
 │
 ├── script1.sh
 ├── script2.sh
@@ -42,6 +42,7 @@ oss-audit-24BCE10779/
 ├── script4.sh
 ├── script5.sh
 └── README.md
+```
 
 ---
 
