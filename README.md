@@ -1,4 +1,3 @@
-# oss-audit-24BAI10375
 # Open Source Audit — Git
 
 ## Student Details
@@ -98,7 +97,7 @@ bash script5.sh
 ## How to Run the Project
 
 Step 1: Open terminal and go to project folder  
-cd oss-audit-24BCE10779  
+cd oss-audit-24BAI10375  
 
 Step 2: Give permission to scripts  
 chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh  
