@@ -52,7 +52,7 @@ oss-audit-24BAI10375/
 This script displays basic system details like kernel version, user name, uptime, date and OS distribution.  
 It uses variables and command substitution.
 
-Run:
+Run :
 bash script1.sh
 
 ---
