@@ -124,7 +124,3 @@ Git is a very powerful tool and it is widely used in industry. Open source softw
 
 Overall, this project was helpful in understanding real world use of open source systems and Linux environment.
 
----
-
-## Note
-Some scripts were tested on macOS, so slight changes were made for compatibility. But originally scripts are designed for Linux systems.
